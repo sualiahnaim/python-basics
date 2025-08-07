@@ -2,13 +2,16 @@
 
 This repository contains Python codes from my learning journey — starting from scratch!
 
-## 📘 Topics Covered
-- Variables & Data Types
-- Operators
-- Strings
-- Conditionals
-- Loops
-- Functions
-- Lists, Tuples, Dicts
-- Object Oriented Programming
+## ✅ Topics Completed So Far
+
+- [x] Variables & Operators
+
+## 🔜 Upcoming Topics
+
+- [ ] Strings  
+- [ ] Conditional Statements  
+- [ ] Loops  
+- [ ] Functions  
+- [ ] Lists, Tuples, Dictionaries  
+- [ ] Object Oriented Programming  
 
