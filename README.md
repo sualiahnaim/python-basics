@@ -2,16 +2,13 @@
 
 This repository contains Python codes from my learning journey — starting from scratch!
 
-## ✅ Topics Completed So Far
+## 03_string.py - Python Strings
 
-- [x] Variables & Operators
+This file demonstrates basic string operations in Python:
 
-## 🔜 Upcoming Topics
-
-- [ ] Strings  
-- [ ] Conditional Statements  
-- [ ] Loops  
-- [ ] Functions  
-- [ ] Lists, Tuples, Dictionaries  
-- [ ] Object Oriented Programming  
+- Strip, Lowercase, Uppercase
+- Replace and Length
+- endswith() and count()
+- Indexing and Slicing
+- String Formatting
 
