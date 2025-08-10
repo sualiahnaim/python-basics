@@ -2,13 +2,13 @@
 
 This repository contains Python codes from my learning journey — starting from scratch!
 
-## 03_string.py - Python Strings
+## 03_conditional.py - conditional statement in python
 
-This file demonstrates basic string operations in Python:
+This file demonstrates conditional statement operations in Python:
 
-- Strip, Lowercase, Uppercase
-- Replace and Length
-- endswith() and count()
-- Indexing and Slicing
-- String Formatting
+ if statement
+- if-else statement
+- if-elif-else ladder
+- Nested if
+- Logical operators (`and`, `not`)
 
