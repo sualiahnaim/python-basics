@@ -27,7 +27,7 @@ def factorial(n):
 print("Factorial of 5:", factorial(5))
 
 
-# Docstrings - Documentation for functions
+#  Docstrings - Documentation for functions
 def greet(name):
     """This function greets the person passed as a parameter."""
     print(f"Hello, {name}!")

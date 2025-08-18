@@ -1,5 +1,7 @@
 # List in Python : List are container to store a set of values of any data type
 
+# LIST METHODS
+
 L1=[25,1,5,8,96,45,75]
 
 L1.sort()       # Sorted the list
@@ -28,6 +30,6 @@ L3=L1+L2            # Add two List
 print(L3)
 
 L4=L1*3
-print(L4)
+print(L4)          # Repeating the list
 
 

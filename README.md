@@ -22,6 +22,7 @@ Each day, I learn and practice new Python concepts with examples and exercises.
 - **Day 7** – Functions (Part 2)  
 - **Day 8** – List in Python (creation, indexing, slicing, methods)  
   **Day 9** – Tuples in Python (creation, indexing, slicing, methods)  
+  **Day 10**– Dictionaries (creation, update, delete, methods, nested dict)
 ---
 
 ## 📂 About This Repository
