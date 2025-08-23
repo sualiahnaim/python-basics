@@ -24,6 +24,8 @@ Each day, I learn and practice new Python concepts with examples and exercises.
   **Day 9** – Tuples in Python (creation, indexing, slicing, methods)  
   **Day 10**– Dictionaries (creation, update, delete, methods, nested dict)
   **Day 11** - Sets in Python
+  **Day 12** → OOP Basics:Classes & Objects
+  
 ---
 
 ## 📂 About This Repository
