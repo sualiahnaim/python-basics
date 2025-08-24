@@ -8,7 +8,7 @@ class vehicle:
         print("Cost of vehicle is ", self.cost)
         print("I am a vehicle")
 
-v1 = vehicle(500, 45000)
+v1 = vehicle(500, 45000)         
 v1.show_vehicle_details()
 
 
