@@ -20,3 +20,4 @@ class Employee:
 e1 = Employee('Ram', 32, 50000, 'Male')
 e1.show_employee_details()
 
+print("CONTRUCTORS")
