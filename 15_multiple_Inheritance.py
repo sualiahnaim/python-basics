@@ -26,5 +26,7 @@ my_child.assign_string_three("Iam string of Child")
 print(my_child.show_string_one())
 print(my_child.show_string_two())
 print(my_child.show_string_three())
+print("Multiple Inheritance")
+
 
 
