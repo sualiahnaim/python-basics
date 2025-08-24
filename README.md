@@ -17,7 +17,7 @@ Each day, I learn and practice new Python concepts with examples and exercises.
 - **Day 2** – Operators & Expressions  
 - **Day 3** – Strings & String Methods
 - **Day 4** – Conditional Statements  
-- **Day 5** – Loops (for, while, nested)  
+- **Day 5** – Loops (for, while, nested)        
 - **Day 6** – Functions (Part 1)  
 - **Day 7** – Functions (Part 2)  
 - **Day 8** – List in Python (creation, indexing, slicing, methods)  
@@ -26,7 +26,8 @@ Each day, I learn and practice new Python concepts with examples and exercises.
   **Day 11** - Sets in Python
   **Day 12** → OOP Basics:Classes & Objects
   **Day 13** → Constructors in python
-  **Day 14** → Inheritance with constructor example 
+  **Day 14** → Inheritance with constructor example
+  **Day 15** → Multiple Inheritance with constructor example  
 ---
 
 ## 📂 About This Repository

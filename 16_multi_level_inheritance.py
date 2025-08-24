@@ -18,7 +18,7 @@ class Grandchild(Child):
     def show_gender(self):
         return self.get_gender
 
-gc=Grandchild()
+gc=Grandchild()           # Objecct
 gc.get_name("Ram Singh")
 gc.get_age(35)
 gc.get_gender("Male")
@@ -26,3 +26,4 @@ gc.get_gender("Male")
 print(gc.show_name())
 print(gc.show_age())
 print(gc.show_gender())
+
