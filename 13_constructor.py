@@ -1,3 +1,7 @@
+# Constructor in Python:
+# A constructor is a special method (__init__) in a class that is automatically called 
+# when a new object is created. It is mainly used to initialize object properties.
+
 class Employee:
     def __init__(self, name, age, salary, gender):
         self.name = name
