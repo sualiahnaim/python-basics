@@ -28,6 +28,8 @@ Each day, I learn and practice new Python concepts with examples and exercises.
   **Day 13** → Constructors in python
   **Day 14** → Inheritance with constructor example
   **Day 15** → Multiple Inheritance with constructor example  
+  **Day 16** → Multi Level Inheritance with constructor example 
+  **Day 17** → Numpy Basics(array creation, indexing, slicing, operations)
 ---
 
 ## 📂 About This Repository
