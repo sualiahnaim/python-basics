@@ -30,6 +30,9 @@ Each day, I learn and practice new Python concepts with examples and exercises.
   **Day 15** → Multiple Inheritance with constructor example  
   **Day 16** → Multi Level Inheritance with constructor example 
   **Day 17** → Numpy Basics(array creation, indexing, slicing, operations)
+  **Day 18** → NumPy (Part 2) – Array joining, intersection & difference
+  
+
 ---
 
 ## 📂 About This Repository
