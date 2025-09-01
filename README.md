@@ -31,8 +31,8 @@ Each day, I learn and practice new Python concepts with examples and exercises.
   **Day 16** → Multi Level Inheritance with constructor example 
   **Day 17** → Numpy (Part 1) Basics(array creation, indexing, slicing, operations)
   **Day 18** → NumPy (Part 2) – Array joining, intersection & difference
-  **Day 18** → Numpy (Part 3)- Array addition, column wise ,row wise ,arithmatic operations and maths functions"
-  
+  **Day 19** → Numpy (Part 3)- Array addition, column wise ,row wise ,arithmatic operations and maths functions"
+  **Day 20** → Pandas (Part 1) Series object, Extravting individual elements, Basic Maths operations, Add two series objects
 
 ---
 
