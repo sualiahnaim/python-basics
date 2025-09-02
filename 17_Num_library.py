@@ -31,3 +31,4 @@ n8=np.random.randint(20,50,10)
 print(n8)
 print(n8.shape)
 
+

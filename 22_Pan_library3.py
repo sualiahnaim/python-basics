@@ -14,7 +14,7 @@ print("\nSort by Marks:\n", df.sort_values(by='Marks', ascending=False))    # So
 
 print("\nStudents with Marks > 80:\n", df[df['Marks'] > 80])         # Filtering rows
 
-print("\nGroup by City (Average Marks):\n", df.groupby('City')['Marks'].mean())   # 3. Grouping 
+print("\nGroup by City (Average Marks):\n", df.groupby('City')['Marks'].mean())   # Grouping 
 
 df['Result'] = ['Pass' if m >= 60 else 'Fail' for m in df['Marks']]  # Adding new column result
 print("\nWith Result Column:\n", df)
