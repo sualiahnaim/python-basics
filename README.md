@@ -33,7 +33,9 @@ Each day, I learn and practice new Python concepts with examples and exercises.
   **Day 18** → NumPy (Part 2) – Array joining, intersection & difference
   **Day 19** → Numpy (Part 3)- Array addition, column wise ,row wise ,arithmatic operations and maths functions"
   **Day 20** → Pandas (Part 1)- Series object, Extravting individual elements, Basic Maths operations, Add two series objects
-  **Day 20** → Pandas (Part 2)- How to read dataset, Maths & Statistics operations, Data selection.
+  **Day 21** → Pandas (Part 2)- How to read dataset, Maths & Statistics operations, Data selection.
+  **Day 22** → Pandas (Part 3)- Pandas sorting, filtering, grouping, add new column, remove column, rename, value counts, unique values.
+  
 ---
 
 ## 📂 About This Repository
