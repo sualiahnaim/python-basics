@@ -35,7 +35,7 @@ Each day, I learn and practice new Python concepts with examples and exercises.
   **Day 20** → Pandas (Part 1)- Series object, Extravting individual elements, Basic Maths operations, Add two series objects
   **Day 21** → Pandas (Part 2)- How to read dataset, Maths & Statistics operations, Data selection.
   **Day 22** → Pandas (Part 3)- Pandas sorting, filtering, grouping, add new column, remove column, rename, value counts, unique values.
-  
+  **Day 23** → Matplotlips libraray : LinePlot, Add two plots, Adding Sub Plots" 
 ---
 
 ## 📂 About This Repository
