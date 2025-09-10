@@ -37,6 +37,7 @@ Each day, I learn and practice new Python concepts with examples and exercises.
   **Day 22** → Pandas (Part 3)- Pandas sorting, filtering, grouping, add new column, remove column, rename, value counts, unique values.
   **Day 23** → Matplotlips libraray : LinePlot, Add two plots, Adding Sub Plots.
   **Day 24** → Matplotlips libraray : BarPlot, how to labelled , horizontal barplot.
+  **Day 25** → Created a Scatterplot, Changing mark aesthetics, Add two scatters in same graph, Adding sub plots.
   
 ---
 
