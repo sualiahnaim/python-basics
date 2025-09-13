@@ -38,7 +38,7 @@ Each day, I learn and practice new Python concepts with examples and exercises.
   **Day 23** → Matplotlips libraray : LinePlot, Add two plots, Adding Sub Plots.
   **Day 24** → Matplotlips libraray : BarPlot, how to labelled , horizontal barplot.
   **Day 25** → Created a Scatterplot, Changing mark aesthetics, Add two scatters in same graph, Adding sub plots.
-  
+  **Day 26** → Create a histogram, Histogram with multiple dataset, Normalized histogram.
 ---
 
 ## 📂 About This Repository
