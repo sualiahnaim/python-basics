@@ -21,25 +21,27 @@ Each day, I learn and practice new Python concepts with examples and exercises.
 - **Day 6** – Functions (Part 1)  
 - **Day 7** – Functions (Part 2)  
 - **Day 8** – List in Python (creation, indexing, slicing, methods)  
-  **Day 9** – Tuples in Python (creation, indexing, slicing, methods)  
-  **Day 10**– Dictionaries (creation, update, delete, methods, nested dict)
-  **Day 11** - Sets in Python
-  **Day 12** → OOP Basics:Classes & Objects
-  **Day 13** → Constructors in python
-  **Day 14** → Inheritance with constructor example
-  **Day 15** → Multiple Inheritance with constructor example  
-  **Day 16** → Multi Level Inheritance with constructor example 
-  **Day 17** → Numpy (Part 1) Basics(array creation, indexing, slicing, operations)
-  **Day 18** → NumPy (Part 2) – Array joining, intersection & difference
-  **Day 19** → Numpy (Part 3)- Array addition, column wise ,row wise ,arithmatic operations and maths functions"
-  **Day 20** → Pandas (Part 1)- Series object, Extravting individual elements, Basic Maths operations, Add two series objects
-  **Day 21** → Pandas (Part 2)- How to read dataset, Maths & Statistics operations, Data selection.
-  **Day 22** → Pandas (Part 3)- Pandas sorting, filtering, grouping, add new column, remove column, rename, value counts, unique values.
-  **Day 23** → Matplotlips libraray : LinePlot, Add two plots, Adding Sub Plots.
-  **Day 24** → Matplotlips libraray : BarPlot, how to labelled , horizontal barplot.
-  **Day 25** → Created a Scatterplot, Changing mark aesthetics, Add two scatters in same graph, Adding sub plots.
-  **Day 26** → Create a histogram, Histogram with multiple dataset, Normalized histogram.
-  **Day 27** → Creating a box plot, Create a Multiple Box plots.
+- **Day 9** – Tuples in Python (creation, indexing, slicing, methods)  
+- **Day 10**– Dictionaries (creation, update, delete, methods, nested dict)
+- **Day 11** - Sets in Python
+- **Day 12** → OOP Basics:Classes & Objects
+- **Day 13** → Constructors in python
+- **Day 14** → Inheritance with constructor example
+- **Day 15** → Multiple Inheritance with constructor example  
+- **Day 16** → Multi Level Inheritance with constructor example 
+- **Day 17** → Numpy (Part 1) Basics(array creation, indexing, slicing, operations)
+- **Day 18** → NumPy (Part 2) – Array joining, intersection & difference
+- **Day 19** → Numpy (Part 3)- Array addition, column wise ,row wise ,arithmatic operations and maths functions"
+- **Day 20** → Pandas (Part 1)- Series object, Extravting individual elements, Basic Maths operations, Add two series objects
+- **Day 21** → Pandas (Part 2)- How to read dataset, Maths & Statistics operations, Data selection.
+- **Day 22** → Pandas (Part 3)- Pandas sorting, filtering, grouping, add new column, remove column, rename, value counts, unique values.
+- **Day 23** → Matplotlips libraray : LinePlot, Add two plots, Adding Sub Plots.
+- **Day 24** → Matplotlips libraray : BarPlot, how to labelled , horizontal barplot.
+- **Day 25** → Created a Scatterplot, Changing mark aesthetics, Add two scatters in same graph, Adding sub plots.
+- **Day 26** → Create a histogram, Histogram with multiple dataset, Normalized histogram.
+- **Day 27** → Creating a box plot, Create a Multiple Box plots.
+- **Day 28** → Creating a violin plot & Creating a Multiple Violin plots.
+  
 ---
 
 ## 📂 About This Repository
