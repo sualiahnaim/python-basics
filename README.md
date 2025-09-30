@@ -41,7 +41,7 @@ Each day, I learn and practice new Python concepts with examples and exercises.
 - **Day 26** → Create a histogram, Histogram with multiple dataset, Normalized histogram.
 - **Day 27** → Creating a box plot, Create a Multiple Box plots.
 - **Day 28** → Creating a violin plot & Creating a Multiple Violin plots.
-  
+- **Day 29** → Created a Pie chart , pie chart with percentage, Created a  Donut chart(Advanced pie chart).
 ---
 
 ## 📂 About This Repository
