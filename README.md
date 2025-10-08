@@ -42,6 +42,8 @@ Each day, I learn and practice new Python concepts with examples and exercises.
 - **Day 27** → Creating a box plot, Create a Multiple Box plots.
 - **Day 28** → Creating a violin plot & Creating a Multiple Violin plots.
 - **Day 29** → Created a Pie chart , pie chart with percentage, Created a  Donut chart(Advanced pie chart).
+- **Day 30** → Created a line plot with seaborn library,Grouping data with 'hue', Adding Style & Markers.
+- **Day 31** → Shows average speed of Legendary vs Non-Legendary Pokémon & split into Legendary and Non-Legendary categories with seaborn library.
 ---
 
 ## 📂 About This Repository
