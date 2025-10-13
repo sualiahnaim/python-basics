@@ -44,6 +44,8 @@ Each day, I learn and practice new Python concepts with examples and exercises.
 - **Day 29** → Created a Pie chart , pie chart with percentage, Created a  Donut chart(Advanced pie chart).
 - **Day 30** → Created a line plot with seaborn library,Grouping data with 'hue', Adding Style & Markers.
 - **Day 31** → Shows average speed of Legendary vs Non-Legendary Pokémon & split into Legendary and Non-Legendary categories with seaborn library.
+- **Day 32** → Scatterplot showing relationship between sepal_length and petal_length and Scatterplot with color differentiation (hue) based on species & Petal length.
+- **Day 33** → Create a Seaborn Histogram and determinate Only frequency without histogram.
 ---
 
 ## 📂 About This Repository
